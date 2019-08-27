@@ -11,4 +11,4 @@ $python2 info.py <br>
 Kalo nggk bisa artinya bahan bahan belom anda install <br>
 
 
-![Screenshot_2019-08-26-11-59-58-729_com termux](https://user-images.githubusercontent.com/44978328/63666304-34e94e00-c7f9-11e9-9961-de7eef5b2e4d.png)
+![Screenshot_2019-08-28-01-15-48-756_com termux](https://user-images.githubusercontent.com/44978328/63797023-68c78f00-c931-11e9-939f-f87280adffde.png)
